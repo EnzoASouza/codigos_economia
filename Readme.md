@@ -1,1 +1,1 @@
-Esse repositório tem a função de hospedar códigos que criei para meus trabalhos na faculdade de Economia.git 
+This repository function is to host codes I've made for my Economics tasks in college. Normally, they're from simple tasks where I use statistics and pandas to solve problems.
