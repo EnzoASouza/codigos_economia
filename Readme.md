@@ -1,0 +1,1 @@
+Esse repositório tem a função de hospedar códigos que criei para meus trabalhos na faculdade de Economia.
